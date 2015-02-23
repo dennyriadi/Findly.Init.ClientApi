@@ -24,7 +24,6 @@ exports.template = function(grunt, init, done) {
     init.prompt('repository'),
     init.prompt('homepage'),
     init.prompt('bugs'),
-    init.prompt('licenses', 'Findly'),
     init.prompt('author_name'),
     init.prompt('author_email'),
     init.prompt('author_url'),

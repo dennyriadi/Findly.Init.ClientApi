@@ -1,6 +1,6 @@
 # grunt-init-findly-clientapi
 
-> Create a commonjs module with [grunt-init][].
+> Create a findly clientapi module with [grunt-init][].
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -14,7 +14,7 @@ npm install grunt-init -g
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone <repo-url> ~/.grunt-init/findly-clientapi
+git clone git@github.com:dennyriadi/Findly.Init.ClientApi.git ~/.grunt-init/findly-clientapi
 ```
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
